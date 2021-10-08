@@ -1,6 +1,6 @@
-# javascript로 백준 알고리즘 정복 :pencil2: ! 
+# javascript로 백준 알고리즘 정복 :pencil2: 
 
-## 1. 단계별로 풀기
+## 단계별로 풀기
 #### 1. 입출력
 #### 2. if문
 #### 3. for문
