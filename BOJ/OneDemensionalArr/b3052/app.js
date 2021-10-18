@@ -9,8 +9,8 @@ function solution(input){
     let num ; 
 
     for(let i = 0 ; i<input.length ; i++){
-        num = input[i]%42;
-        if(count.indexOf(num) == -1 ){
+        num = input[i] % 42;
+        if(count.indexOf(num) === -1 ){
             count.push(num);
         }
     }
